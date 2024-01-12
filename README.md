@@ -1,9 +1,3 @@
-### Hi there 👋
-
-# this is a copied markdown.
-
-- GitHub Profile README Generator.
-
 <h1 align="center">Hi 👋, I'm Leo</h1>
 <h3 align="center">A Minecraft Content developer with Skript plugin.</h3>
 
