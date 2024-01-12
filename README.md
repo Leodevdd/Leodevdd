@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+# this is a test markdown.
+
+- I'm Leo. I'm learning about this one. I'd like to use it on my Minecraft Project with my friend.
+
+
 <!--
 **Leodevdd/Leodevdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
